@@ -3,7 +3,10 @@
 ![I am a fullstack developer working in a *'go horse mode'* most of the time. **Devs gonna Dev.** ]
 
 
-Skills: JAVA / NODEJD / VUE JS / REACT / JS / HTML / CSS
+Skills: 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+<i class="devicon-java-plain-wordmark"></i> || NODEJD / VUE JS / REACT / JS / HTML / CSS
+<hr>
 
 
 
