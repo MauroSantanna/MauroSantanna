@@ -1,11 +1,19 @@
-### Hi there 👋, my name is Mauro 
+### Oi, eu sou o Mauro
 #### I am a fullstack developer working in a *'go horse mode'* most of the time. **Devs gonna Dev.** 
 ![I am a fullstack developer working in a *'go horse mode'* most of the time. **Devs gonna Dev.** ]
 
 
-Skills: 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<i class="devicon-java-plain-wordmark"></i> || NODEJD / VUE JS / REACT / JS / HTML / CSS
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mauro-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Mauro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mauro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Mauro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mauro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mauro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mauro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mauro -Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+</div>
 <hr>
 
 
