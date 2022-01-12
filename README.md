@@ -30,4 +30,3 @@ Você pode me encontrar:
 [![Mauro Santanna stats](https://github-readme-stats.vercel.app/api?username=MauroSantanna&theme=dark&hide=prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
 
-![Profile views](https://gpvc.arturio.dev/MauroSantanna)  
